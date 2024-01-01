@@ -1,0 +1,2 @@
+# seatplanninggenerator
+plans seat
